@@ -8,6 +8,6 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "github new scm");
+        System.out.println( "github new1 scm");
     }
 }
